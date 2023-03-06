@@ -1,4 +1,4 @@
-# <img src="https://tryhackme-badges.s3.amazonaws.com/qquang01.png" alt="TryHackMe">
+# <script src="https://tryhackme.com/badge/738415"></script>
 
 ### Hi there 👋
 - 🔭 I’m currently studying in **Academy of Cryptography Techniques (KMA)**
